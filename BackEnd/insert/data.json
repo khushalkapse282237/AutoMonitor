@@ -1,0 +1,3790 @@
+{
+    "users": {
+        "m@gmail.com": {
+            "data": {
+                "2024/11/25": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH28DC3994"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH28DC6315"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH88BC6610"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH66DC6875"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH51AC5995"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH51AC7819"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH72DC7989"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH66AC4472"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH24DC9452"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH19BC1877"
+                        }
+                    }
+                },
+                "2024/11/26": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH84AC4776"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH89DC7400"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH33BC6028"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH32AC8866"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH72BC7708"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH71BC3034"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH19AC9841"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH40BC9947"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH58BC7420"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH92AC5476"
+                        }
+                    }
+                },
+                "2024/11/27": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH89AC1455"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH63AC6864"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH78DC5462"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH79AC4395"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH26BC6358"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH32BC2203"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH86DC4494"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH92AC6402"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH69AC3549"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH90AC7625"
+                        }
+                    }
+                },
+                "2024/11/28": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH59DC2041"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH12DC7606"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH98AC8737"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH28DC9548"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH61AC6929"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH23DC3502"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH55AC4342"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH11AC5368"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH12DC9384"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH32DC9378"
+                        }
+                    }
+                },
+                "2024/11/29": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH50AC5684"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH39BC3478"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH76BC7603"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH78BC4458"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH44AC4797"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH22DC6091"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH18DC7996"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH13BC8398"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH19AC2771"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH41BC1243"
+                        }
+                    }
+                },
+                "2024/11/30": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH66DC4647"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH54BC1592"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH91BC7218"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH98AC5187"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH20AC5535"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH33DC7228"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH45AC5450"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH20AC9359"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH56BC2665"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH52BC8046"
+                        }
+                    }
+                },
+                "2024/12/01": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH77DC2878"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH36BC3018"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH52DC3395"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH54AC1199"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH87DC2580"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH17DC8031"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH96BC1470"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH32DC5520"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH80AC6745"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH37DC5340"
+                        }
+                    }
+                },
+                "2024/12/02": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH44DC3077"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH19BC7806"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH43AC2684"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH74DC2800"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH82DC7091"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH17BC1863"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH76DC9112"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH87AC5490"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH34AC9577"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH47AC2094"
+                        }
+                    }
+                },
+                "2024/12/03": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH13BC3784"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH60BC9467"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH34AC2025"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH48DC8234"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH12BC4496"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH61BC3667"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH23DC9960"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH68BC5366"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH43BC2364"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH82DC3669"
+                        }
+                    }
+                },
+                "2024/12/04": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH26AC3070"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH79AC1389"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH88BC6677"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH50BC1756"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH36BC4240"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH61AC8560"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH41BC5955"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH33DC6949"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH92BC9083"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH42DC1470"
+                        }
+                    }
+                },
+                "2024/12/05": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH90AC3405"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH44AC2232"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH31DC9420"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH13BC6648"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH35AC5213"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH53BC6730"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH57BC8919"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH90BC7014"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH61DC2019"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH26DC1619"
+                        }
+                    }
+                },
+                "2024/12/06": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH73BC3788"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH64AC9546"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH92AC3048"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH15DC1157"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH23DC1275"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH59DC7492"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH21DC2483"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH97BC9733"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH17AC5468"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH71BC1225"
+                        }
+                    }
+                },
+                "2024/12/07": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH75AC1665"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH40DC9713"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH93AC2695"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH58BC3966"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH95BC4099"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH46AC1455"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH28AC5426"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH76AC5012"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH60BC6480"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH38BC6293"
+                        }
+                    }
+                },
+                "2024/12/08": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH95AC7346"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH42AC1070"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH12BC1748"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH93AC7697"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH89DC7511"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH78AC1247"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH62AC1859"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH77DC4157"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH17BC5572"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH38AC6408"
+                        }
+                    }
+                },
+                "2024/12/09": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH65AC3381"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH71BC1876"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH20BC2590"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH42AC3530"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH57BC5657"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH75AC4020"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH95BC4753"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH94DC6452"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH95AC6170"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH18DC4794"
+                        }
+                    }
+                },
+                "2024/12/10": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH28AC4908"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH50BC8572"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH41BC4641"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH53AC5613"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH61BC7804"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH17DC5485"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH25DC2918"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH94AC6719"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH22DC7322"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH41DC9020"
+                        }
+                    }
+                },
+                "2024/12/11": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH78AC6586"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH13AC8006"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH95DC5654"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH52DC6779"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH16AC7409"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH17AC3178"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH91AC6037"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH92BC4510"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH25DC5077"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH98AC9273"
+                        }
+                    }
+                },
+                "2024/12/12": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH65AC8259"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH50DC4141"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH13BC2407"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH53AC6398"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH61DC4830"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH90DC2688"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH76DC7752"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH36AC2374"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH41DC6801"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH59DC9168"
+                        }
+                    }
+                },
+                "2024/12/13": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH87DC9203"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH21DC5128"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH45DC7414"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH11AC5902"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH80BC9010"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH70AC6196"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH81BC8395"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH22BC6416"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH21BC1584"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH82DC6984"
+                        }
+                    }
+                },
+                "2024/12/14": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH68BC7001"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH23AC6243"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH71DC9125"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH12DC2725"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH18AC4889"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH84DC5473"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH71DC6360"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH64DC4266"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH50BC8936"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH77AC3478"
+                        }
+                    }
+                },
+                "2024/12/15": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH14BC1150"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH29BC7774"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH40DC7956"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH69AC5715"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH15BC7676"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH62BC3083"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH91AC9148"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH84AC2849"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH72AC9800"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH51AC1434"
+                        }
+                    }
+                },
+                "2024/12/16": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH12AC1070"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH14AC4966"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH49DC9803"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH92AC7832"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH80BC5831"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH76BC1408"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH41BC7193"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH75BC4469"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH72AC1928"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH16DC1380"
+                        }
+                    }
+                },
+                "2024/12/17": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH66AC9203"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH62DC2619"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH38BC5520"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH76BC3124"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH23BC9764"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH61AC4816"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH46AC3461"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH23BC6522"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH68DC7121"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH91AC2929"
+                        }
+                    }
+                },
+                "2024/12/18": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH17BC1847"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH99DC1372"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH71DC3039"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH46AC4111"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH32AC4576"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH40BC2912"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH41DC9522"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH96DC9682"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH46AC5727"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH37AC2093"
+                        }
+                    }
+                },
+                "2024/12/19": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH30BC9453"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH39AC3619"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH65DC5665"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH83BC7843"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH85AC5009"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH54AC1974"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH19DC7217"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH58BC1209"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH87AC6737"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH37AC1232"
+                        }
+                    }
+                },
+                "2024/12/20": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH69AC5697"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH14DC5837"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH20AC6778"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH99BC2316"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH24BC3680"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH18DC2314"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH14AC1453"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH37BC7280"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH99BC5426"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH14BC9862"
+                        }
+                    }
+                },
+                "2024/12/21": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH32DC1692"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH49BC7373"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH50AC9114"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH97AC8495"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH99DC4477"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH85DC5897"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH48DC7498"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH16DC3117"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH97AC4831"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH26AC5231"
+                        }
+                    }
+                },
+                "2024/12/22": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH38BC5658"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH64AC8293"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH89AC6737"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH42DC6702"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH83AC2987"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH32DC7928"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH41DC8467"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH46BC7988"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH29AC5358"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH13AC3729"
+                        }
+                    }
+                },
+                "2024/12/23": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH53DC6863"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH83BC6866"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH71BC2452"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH14BC9026"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH39AC7952"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH51BC8921"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH67BC1482"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH80BC9022"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH91DC9665"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH38DC3141"
+                        }
+                    }
+                },
+                "2024/12/24": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH56BC5944"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH16AC1013"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH14BC4204"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH11BC3299"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH56DC9980"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH90BC6494"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH75DC4608"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH96DC5797"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH29BC9690"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH53BC7835"
+                        }
+                    }
+                },
+                "2024/12/25": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH15DC2042"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH16AC6708"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH50AC8614"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH31AC8734"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH81AC3248"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH95AC9939"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH93AC2314"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH14BC4695"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH13DC5200"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH92BC2509"
+                        }
+                    }
+                },
+                "2024/12/26": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH75DC9825"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH33BC8964"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH77AC7644"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH88DC1825"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH36BC7412"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH73BC5880"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH65DC9451"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH99DC6671"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH58BC8061"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH34AC7626"
+                        }
+                    }
+                },
+                "2024/12/27": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH81BC8957"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH96AC8836"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH50BC3769"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH24AC2871"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH21AC6302"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH92BC7243"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH53BC8277"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH48AC1596"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH67DC6065"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH61DC8314"
+                        }
+                    }
+                },
+                "2024/12/28": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH19AC9425"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH84AC7391"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH79AC8431"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH13AC6068"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH74DC2888"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH64BC8044"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH76AC8401"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH50AC5348"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH92BC3379"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH73BC8652"
+                        }
+                    }
+                },
+                "2024/12/29": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH68BC9562"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH81BC6736"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH10DC1432"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH58DC2569"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH40DC9111"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH99BC9618"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH12DC3653"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH99BC2510"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH87AC2968"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH84BC5775"
+                        }
+                    }
+                },
+                "2024/12/30": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH57BC1516"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH80BC8513"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH25AC3647"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH64AC4264"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH49BC7987"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH73AC2855"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH67BC2119"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH52BC5731"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH59BC4895"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH93AC4291"
+                        }
+                    }
+                },
+                "2024/12/31": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH34DC5808"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH61BC4098"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH92DC5955"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH53DC4407"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH31DC2841"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH61AC2418"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH56DC7242"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH77BC6904"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH50DC8193"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH41BC2883"
+                        }
+                    }
+                },
+                "2025/01/01": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH78BC2159"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH77DC2304"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH69AC6960"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH44BC3909"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH21DC2194"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH22AC2185"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH50AC5009"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH53BC8847"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH93DC9973"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH44BC7680"
+                        }
+                    }
+                },
+                "2025/01/02": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH58AC6517"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH80AC3259"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH69DC2282"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH68BC5764"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH78BC9650"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH25BC5319"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH65DC3334"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH74BC9428"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH28DC6699"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH76DC8924"
+                        }
+                    }
+                },
+                "2025/01/03": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH52AC7809"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH67BC7137"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH10AC6767"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH13AC3532"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH10AC9949"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH10DC8309"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH93DC6677"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH56AC2714"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH32DC9267"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH48DC5963"
+                        }
+                    }
+                },
+                "2025/01/04": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH35BC8755"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH37AC9968"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH14DC8033"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH52BC6801"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH91DC5892"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH76DC3787"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH85BC3772"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH77AC3468"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH26DC2332"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH70DC5531"
+                        }
+                    }
+                },
+                "2025/01/05": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH97DC9816"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH72DC8424"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH11DC4922"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH79DC3240"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH88DC1303"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH29BC1822"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH20DC3992"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH47AC4867"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH66AC8645"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH44BC2105"
+                        }
+                    }
+                },
+                "2025/01/06": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH99BC1357"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH26DC9136"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH44AC6523"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH72DC3470"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH42AC2244"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH97AC1854"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH75AC4911"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH49DC4677"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH52BC1273"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH35DC9085"
+                        }
+                    }
+                },
+                "2025/01/07": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH84BC7612"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH71BC2494"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH79BC4152"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH43DC5740"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH35AC5875"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH85DC3523"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH79DC6684"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH17DC4154"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH27BC7182"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH71AC3840"
+                        }
+                    }
+                },
+                "2025/01/08": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH78DC6029"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH58AC2464"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH71BC9340"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH63AC6483"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH76BC5498"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH79BC6593"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH34BC4665"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH23DC4303"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH38AC6058"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH37AC6817"
+                        }
+                    }
+                },
+                "2025/01/09": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH26AC2636"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH45DC9767"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH38DC2419"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH78BC2068"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH16AC4449"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH63AC8721"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH52BC6741"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH72DC5472"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH61DC7690"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH78AC5205"
+                        }
+                    }
+                },
+                "2025/01/10": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH69AC8067"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH99AC6208"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH34BC2294"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH63AC5443"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH71BC7064"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH81DC7911"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH86DC6655"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH50AC3373"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH48DC7867"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH62BC3630"
+                        }
+                    }
+                },
+                "2025/01/11": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH29BC7181"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH42BC1920"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH20DC2831"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH93AC5885"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH53BC8808"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH65DC4308"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH75DC2983"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH96BC6313"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH39DC9747"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH21AC4218"
+                        }
+                    }
+                },
+                "2025/01/12": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH25DC4945"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH18DC4946"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH69BC6154"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH20DC6422"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH85DC7577"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH35BC8025"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH12DC9183"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH18AC4724"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH51DC6119"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH80AC8808"
+                        }
+                    }
+                },
+                "2025/01/13": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH42DC7179"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH32BC1769"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH68AC9948"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH84BC9364"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH10DC6482"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH61BC2516"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH25DC6001"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH69AC3030"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH64DC7304"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH80DC1859"
+                        }
+                    }
+                },
+                "2025/01/14": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH85BC6598"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH96BC9709"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH55AC6414"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH45AC4827"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH54AC1329"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH44BC7462"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH26BC8423"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH20DC1327"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH14BC3573"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH18DC5932"
+                        }
+                    }
+                },
+                "2025/01/15": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH16AC5642"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH86DC4186"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH16BC8093"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH97BC1419"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH94AC3968"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH68DC1348"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH17BC9653"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH26AC6831"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH44DC3297"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH19AC7252"
+                        }
+                    }
+                },
+                "2025/01/16": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH10AC5188"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH23DC4559"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH55AC3281"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH28BC4225"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH12BC8447"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH16BC4461"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH32BC9292"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH63AC6946"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH21AC7286"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH95AC6316"
+                        }
+                    }
+                },
+                "2025/01/17": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH34BC9203"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH78BC9356"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH67DC2218"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH55BC9614"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH54AC4964"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH26BC9667"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH21DC9843"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH50AC8833"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH68DC8222"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH26DC3151"
+                        }
+                    }
+                },
+                "2025/01/18": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH31BC6372"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH45DC6943"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH48DC5603"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH98BC3859"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH82BC5145"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH90BC6513"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH21AC7727"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH60DC6868"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH35AC7185"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH11BC3569"
+                        }
+                    }
+                },
+                "2025/01/19": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH21DC9196"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH82AC4528"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH72BC5609"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH48AC6479"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH42BC2209"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH57AC9774"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH74DC4376"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH47DC2104"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH16BC7075"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH59BC7525"
+                        }
+                    }
+                },
+                "2025/01/20": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH62BC2614"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH69DC8481"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH32BC7770"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH18BC1603"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH57BC6496"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH14AC2940"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH27DC1793"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH80DC4887"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH46BC8775"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH93AC2963"
+                        }
+                    }
+                },
+                "2025/01/21": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH58AC2902"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH99AC7746"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH88DC7992"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH80DC1328"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH14DC9799"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH93AC4505"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH54AC4798"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH68AC8802"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH85AC4318"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH18AC9200"
+                        }
+                    }
+                },
+                "2025/01/22": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH82AC2923"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH52DC7404"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH39DC5820"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH41DC5918"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH60BC3972"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH12AC3203"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH33DC1085"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH69AC3915"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH64DC4149"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH56AC7974"
+                        }
+                    }
+                },
+                "2025/01/23": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH63BC1334"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH10BC8346"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH93BC7534"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH41DC2124"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH57AC7996"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH80BC6392"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH88BC1245"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH49AC7462"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH15AC4833"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH10BC9874"
+                        }
+                    }
+                },
+                "2025/01/24": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH72BC5460"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH68BC5642"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH60DC5532"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH48BC2729"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH77DC9515"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH95DC8786"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH89BC1672"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH84DC8843"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH86AC3976"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH47DC9731"
+                        }
+                    }
+                },
+                "2025/01/25": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH85AC8105"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH60AC1637"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH18DC9689"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH16BC3399"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH69AC7545"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH27BC1319"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH87BC5378"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH35AC1693"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH17DC1718"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH21AC2731"
+                        }
+                    }
+                },
+                "2025/01/26": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH86AC3344"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH83BC1583"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH44AC2884"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH66DC3261"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH58AC2536"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH98AC1734"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH46AC4193"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH87DC8940"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH69BC9220"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH13BC8712"
+                        }
+                    }
+                },
+                "2025/01/27": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH93BC3543"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH92DC2318"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH96BC3402"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH14AC3520"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH33AC2850"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH79DC9571"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH33DC3488"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH69BC2717"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH28BC1625"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH88BC3959"
+                        }
+                    }
+                },
+                "2025/01/28": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH34DC5365"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH58DC4083"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH60DC4718"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH29BC8334"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH93BC5094"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH89DC3840"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH42BC7954"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH77DC2242"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH70BC8647"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH75BC8987"
+                        }
+                    }
+                },
+                "2025/01/29": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH20BC9578"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH58AC7335"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH19AC1453"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH43DC9083"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH40BC9865"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH74BC7087"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH84DC8023"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH80AC1764"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH22BC6047"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH45DC1263"
+                        }
+                    }
+                },
+                "2025/01/30": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH30BC6746"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH51BC4207"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH92AC2902"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH33BC2541"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH61BC3110"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH73AC3401"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH36AC2721"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH65BC1298"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH65DC7273"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH75DC1467"
+                        }
+                    }
+                },
+                "2025/01/31": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH67AC7706"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH63AC3174"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH35AC7032"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH47BC6285"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH82BC9058"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH34BC5079"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH63DC7779"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH15BC1942"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH89DC6725"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH88AC2924"
+                        }
+                    }
+                },
+                "2025/02/01": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH88AC8045"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH29AC5519"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH30AC9266"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH25BC2987"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH24BC4566"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH56BC3019"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH74BC9573"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH65DC9656"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH54AC3168"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH18DC2925"
+                        }
+                    }
+                },
+                "2025/02/02": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH28DC5771"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH55DC7774"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH73DC1393"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH75DC6450"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH80BC2206"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH31DC7524"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH28BC8523"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH22AC8810"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH48BC1226"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH26BC4309"
+                        }
+                    }
+                },
+                "2025/02/03": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH26AC7958"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH36AC9253"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH69DC3723"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH40AC9658"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH57AC9469"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH79AC8910"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH78AC8179"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH81DC7686"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH77BC5932"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH20DC4475"
+                        }
+                    }
+                },
+                "2025/02/04": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH18BC5372"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH16AC2199"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH27BC1239"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH83BC5383"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH79BC5338"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH71BC8029"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH88DC9153"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH42DC2597"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH11BC3964"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH11DC6708"
+                        }
+                    }
+                },
+                "2025/02/05": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH14DC8414"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH86DC3278"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH26DC7645"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH46BC2049"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH26BC6187"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH57DC8213"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH77DC1997"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH91AC4408"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH21AC7042"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH52BC3379"
+                        }
+                    }
+                },
+                "2025/02/06": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH73DC2404"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH12AC6445"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH11DC2947"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH19AC8021"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH65DC9478"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH73DC8218"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH15BC6243"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH11DC2746"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH13BC9136"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH24BC8350"
+                        }
+                    }
+                },
+                "2025/02/07": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH74BC6780"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH82BC1408"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH39AC6459"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH97DC5108"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH25DC8323"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH38DC7476"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH75DC2169"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH71DC1214"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH19BC7773"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH54BC2725"
+                        }
+                    }
+                },
+                "2025/02/08": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH20AC9869"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH55AC8686"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH12DC6693"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH37BC4482"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH92AC2044"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH42AC3707"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH39AC9659"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH54BC8137"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH27BC4064"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH68AC6917"
+                        }
+                    }
+                },
+                "2025/02/09": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH82AC2711"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH21DC4223"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH68DC4757"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH98BC1651"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH48BC3551"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH90BC2850"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH69DC4435"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH53DC9658"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH92DC2980"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH82BC2757"
+                        }
+                    }
+                },
+                "2025/02/10": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH53DC8253"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH93AC2470"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH35AC1906"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH61AC8016"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH40BC6328"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH30AC2361"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH25AC9871"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH42BC5889"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH19AC7026"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH16BC6674"
+                        }
+                    }
+                },
+                "2025/02/11": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH63BC9947"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH92DC6789"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH60BC9573"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH56BC9868"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH85AC8763"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH95BC6075"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH16BC8944"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH55BC6587"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH47DC8972"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH79BC7215"
+                        }
+                    }
+                },
+                "2025/02/12": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH86DC9227"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH17BC5718"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH20DC7661"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH98BC5588"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH76AC4377"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH25DC3635"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH41AC5587"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH54BC3715"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH44AC4573"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH98AC6567"
+                        }
+                    }
+                },
+                "2025/02/13": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH47AC2049"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH86BC6670"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH17DC3652"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH70AC7472"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH39AC5894"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH40DC4258"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH55DC8642"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH97DC3348"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH94AC7368"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH85DC8592"
+                        }
+                    }
+                },
+                "2025/02/14": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH50BC5507"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH44AC9459"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH61DC5343"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH41AC4181"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH79BC4037"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH44AC3845"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH98AC4084"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH15BC4710"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH66DC7584"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH77DC5010"
+                        }
+                    }
+                },
+                "2025/02/15": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH15BC8717"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH37DC1188"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH12BC5736"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH13BC6170"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH75BC8682"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH68AC7015"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH57AC7310"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH92DC7739"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH30DC3582"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH50AC3941"
+                        }
+                    }
+                },
+                "2025/02/16": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH26AC2062"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH73DC9306"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH77DC2818"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH55DC9056"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH54AC7091"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH19AC4346"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH93BC4465"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH99BC4178"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH88AC3434"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH38DC2234"
+                        }
+                    }
+                },
+                "2025/02/17": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH19BC8651"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH88DC3697"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH69BC7831"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH60AC6169"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH40BC5809"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH76DC4408"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH16BC1191"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH92BC5950"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH76DC9102"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH32BC3646"
+                        }
+                    }
+                },
+                "2025/02/18": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH53BC8703"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH82DC2498"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH21BC2846"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH68AC5332"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH95DC5037"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH29BC7486"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH32BC9496"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH96DC2672"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH93BC1113"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH54AC2213"
+                        }
+                    }
+                },
+                "2025/02/19": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH30DC2055"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH38DC1430"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH52BC6751"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH43BC6772"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH50BC1804"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH17AC9688"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH92AC3348"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH56BC8279"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH46DC8780"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH71AC2900"
+                        }
+                    }
+                },
+                "2025/02/20": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH86DC7150"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH27BC2581"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH60AC6680"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH57BC3568"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH39AC7516"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH79DC2038"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH75AC5261"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH31AC4644"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH47BC1828"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH12AC9692"
+                        }
+                    }
+                },
+                "2025/02/21": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH57DC1366"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH17DC3527"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH50AC8418"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH43DC7339"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH23DC8412"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH55BC1288"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH16BC4503"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH18BC6899"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH64AC3330"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH21AC4148"
+                        }
+                    }
+                },
+                "2025/02/22": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH73AC7020"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH54AC1602"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH89AC2399"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH85AC2725"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH47DC6967"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH45BC2139"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH93DC5291"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH32DC9919"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH64AC3866"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH25BC2053"
+                        }
+                    }
+                },
+                "2025/02/23": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH42DC1883"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH51BC7134"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH21AC8381"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH14AC9754"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH12BC5166"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH53BC6585"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH69DC9128"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH41AC7922"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH56DC6334"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH30BC2176"
+                        }
+                    }
+                },
+                "2025/02/24": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH61BC6090"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH63AC6548"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH44BC1142"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH49AC4933"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH85BC5667"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH20DC6167"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH47DC6117"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH97AC2265"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH85BC7863"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH82DC4129"
+                        }
+                    }
+                },
+                "2025/02/25": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH58BC8424"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH79BC4110"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH97DC9014"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH97DC3205"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH89BC2426"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH93DC2764"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH52AC6444"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH73DC3777"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH53DC5281"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH12DC6583"
+                        }
+                    }
+                },
+                "2025/02/26": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH12DC3667"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH64DC9265"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH22DC2162"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH86AC9188"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH16AC8094"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH98DC2286"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH56AC7399"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH43AC5426"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH25BC4941"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH42AC4086"
+                        }
+                    }
+                },
+                "2025/02/27": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH70BC5905"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH50AC7067"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH96DC6755"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH83BC6636"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH41AC8564"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH65BC9311"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH74AC6236"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH74DC9142"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH18DC9163"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH53AC3886"
+                        }
+                    }
+                },
+                "2025/02/28": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH24DC5162"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH64AC4172"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH98AC6360"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH57DC1376"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH11DC8545"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH21AC7043"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH50DC2854"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH17BC5647"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH83BC7978"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH78AC3713"
+                        }
+                    }
+                },
+                "2025/03/01": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH97BC5324"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH15BC7652"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH22DC4787"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH33BC8675"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH92DC6658"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH91BC3714"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH43AC2347"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH33DC8133"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH89BC6477"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH27BC7013"
+                        }
+                    }
+                },
+                "2025/03/02": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH27AC5726"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH91DC9490"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH62AC4497"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH15AC8209"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH41AC1061"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH68DC9889"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH91AC8149"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH37DC6993"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH78BC9307"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH10AC1132"
+                        }
+                    }
+                },
+                "2025/03/03": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH85DC8134"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH37AC6987"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH23DC5311"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH46BC6060"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH49DC2780"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH57BC1796"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH58AC6360"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH68AC1196"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH80AC9086"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH11DC7229"
+                        }
+                    }
+                },
+                "2025/03/04": {
+                    "metadata": {
+                        "plate_count": 10
+                    },
+                    "plates": {
+                        "PLATE0": {
+                            "license_plate": "MH16AC9519"
+                        },
+                        "PLATE1": {
+                            "license_plate": "MH47AC4454"
+                        },
+                        "PLATE2": {
+                            "license_plate": "MH47DC1039"
+                        },
+                        "PLATE3": {
+                            "license_plate": "MH96AC7609"
+                        },
+                        "PLATE4": {
+                            "license_plate": "MH76BC5472"
+                        },
+                        "PLATE5": {
+                            "license_plate": "MH52AC7449"
+                        },
+                        "PLATE6": {
+                            "license_plate": "MH89AC4966"
+                        },
+                        "PLATE7": {
+                            "license_plate": "MH20DC7717"
+                        },
+                        "PLATE8": {
+                            "license_plate": "MH32BC4565"
+                        },
+                        "PLATE9": {
+                            "license_plate": "MH47DC6233"
+                        }
+                    }
+                }
+            },
+            "employees": {
+                "EMP1115": {
+                    "name": "Employee 1",
+                    "age": 50,
+                    "address": "921 Main St, City 1",
+                    "contactInfo": "9876549715",
+                    "salary": 34700,
+                    "startingDate": "2024-06-17"
+                },
+                "EMP9941": {
+                    "name": "Employee 2",
+                    "age": 46,
+                    "address": "886 Main St, City 2",
+                    "contactInfo": "9876563830",
+                    "salary": 43076,
+                    "startingDate": "2024-09-22"
+                },
+                "EMP8803": {
+                    "name": "Employee 3",
+                    "age": 44,
+                    "address": "135 Main St, City 3",
+                    "contactInfo": "9876590791",
+                    "salary": 66161,
+                    "startingDate": "2024-04-07"
+                },
+                "EMP3311": {
+                    "name": "Employee 4",
+                    "age": 36,
+                    "address": "924 Main St, City 4",
+                    "contactInfo": "9876522958",
+                    "salary": 34021,
+                    "startingDate": "2024-10-21"
+                },
+                "EMP7400": {
+                    "name": "Employee 5",
+                    "age": 32,
+                    "address": "609 Main St, City 5",
+                    "contactInfo": "9876549797",
+                    "salary": 62195,
+                    "startingDate": "2024-09-18"
+                },
+                "EMP9496": {
+                    "name": "Employee 6",
+                    "age": 41,
+                    "address": "875 Main St, City 6",
+                    "contactInfo": "9876518290",
+                    "salary": 35170,
+                    "startingDate": "2024-07-17"
+                },
+                "EMP6217": {
+                    "name": "Employee 7",
+                    "age": 42,
+                    "address": "815 Main St, City 7",
+                    "contactInfo": "9876568879",
+                    "salary": 58945,
+                    "startingDate": "2024-02-16"
+                },
+                "EMP5810": {
+                    "name": "Employee 8",
+                    "age": 44,
+                    "address": "290 Main St, City 8",
+                    "contactInfo": "9876533268",
+                    "salary": 56951,
+                    "startingDate": "2024-04-03"
+                },
+                "EMP8114": {
+                    "name": "Employee 9",
+                    "age": 48,
+                    "address": "478 Main St, City 9",
+                    "contactInfo": "9876553551",
+                    "salary": 43684,
+                    "startingDate": "2024-10-05"
+                },
+                "EMP9648": {
+                    "name": "Employee 10",
+                    "age": 34,
+                    "address": "605 Main St, City 10",
+                    "contactInfo": "9876548192",
+                    "salary": 61250,
+                    "startingDate": "2024-04-21"
+                }
+            }
+        }
+    }
+}
